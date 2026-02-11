@@ -195,7 +195,7 @@ Generated reports are automatically stored in Azure Blob Storage for governance 
 
 ### Automated Distribution
 
-Reports can be automatically delivered via Azure Communication Services:
+Reports can be automatically delivered via email with Azure Communication Services:
 
 ![Email Delivery](email-delivery.png)
 
@@ -222,8 +222,8 @@ High-level posture snapshot including severity breakdown and risk scoring:
 
 Normalized Defender for Cloud findings prepared for governance review:
 
-![Detailed Recommendations](detailed-recommendations.png)
-![Detailed Recommendations](detailed-recommendations-2.png)
+![Detailed Recommendations](detailed-recommendations-structure.png)
+![Detailed Recommendations](detailed-recommendations-structure-2.png)
 
 Reports are saved to:
 
